@@ -2,7 +2,7 @@ import flatpickr from 'flatpickr';
 import 'flatpickr/dist/flatpickr.min.css';
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
-import Group from '../img/Group.png';
+// import Group from '../img/Group.png';
 
 function convertMs(ms) {
   // Number of milliseconds per unit of time

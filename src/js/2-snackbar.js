@@ -1,7 +1,7 @@
 import iziToast from 'izitoast';
 import 'izitoast/dist/css/iziToast.min.css';
-import ok from '../img/ok.png';
-import err from '../img/err.png';
+import ok from '../img/success-min.png';
+import err from '../img/error-min.png';
 
 const form = document.querySelector('.form');
 form.addEventListener('submit', formHandler);
