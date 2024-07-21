@@ -9,7 +9,7 @@ body {
 }
 
 .form {
-  width: 360px;
+  max-width: 360px;
   margin-bottom: 100px;
 }
 
@@ -17,7 +17,7 @@ input[type='number'] {
   box-sizing: border-box;
   border: 1px solid #808080;
   border-radius: 4px;
-  width: 360px;
+  max-width: 360px;
   height: 40px;
   padding: 8px 16px;
   font-family: 'Montserrat', sans-serif;
